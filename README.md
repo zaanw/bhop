@@ -5,5 +5,5 @@
 ## Установка
 
 1. Установи Fabric Loader 0.20.1 или новее для Minecraft 26.3. Для игры нужна Java 25.
-2. Скачай `simple-bhop-2.0.0-mc26.3.jar` из [релиза 2.0.0](https://github.com/zaanw/bhop/releases/tag/v2.0.0).
+2. Скачай `simple-bhop-2.0.0-mc26.3.jar` по [прямой ссылке](https://github.com/zaanw/bhop/raw/refs/heads/main/dist/simple-bhop-2.0.0-mc26.3.jar).
 3. Положи файл в папку `mods` своего профиля и запусти игру. Fabric API не требуется.
