@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"simple_bhop","version":"2.0.0","name":"Simple BHop","description":"Landing hops, momentum and directional air acceleration.","environment":"client","mixins":["simple_bhop.mixins.json"],"depends":{"fabricloader":">=0.20.1","minecraft":"=26.3","java":">=25"}}
